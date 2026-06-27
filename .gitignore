@@ -1,0 +1,10 @@
+gwd_preview_Monster_Drag_to_Catch/
+gwd_preview_Monster Drag to Catch/
+.system_generated/
+tasks/
+walkthrough.md
+task.md
+implementation_plan.md
+node_modules/
+.DS_Store
+*.log
